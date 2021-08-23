@@ -1,0 +1,25 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "proyecto express",
+  "main": "test.js",
+  "dependencies": {
+    "color": "^4.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./test.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaniaFHG/ExpressDW.git"
+  },
+  "author": "DaniaFHG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaniaFHG/ExpressDW/issues"
+  },
+  "homepage": "https://github.com/DaniaFHG/ExpressDW#readme"
+}
